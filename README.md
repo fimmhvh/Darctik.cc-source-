@@ -18,3 +18,4 @@ Method Injection
    virustotal detectors: https://www.virustotal.com/gui/file/f56a5e7ae88b7926f83b658a710deb1fb94337ab2485d3f7985fe577dba24379?nocache=1
 
    By Fimm
+Password ot archive: 1
